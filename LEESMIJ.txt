@@ -1,0 +1,18 @@
+
+Dit project bevat enkele oefeningen uit de cursus
+
+Niet vergeten om npm install eerst uit te voeren !
+
+Je kan een oefening laten uitvoeren ofwel:
+* via het menu 'debug' -> 'start debugging' (of F5 toets),
+hierbij vraagt VScode je dan (eventueel) hoe je wil debuggen , kies 'node.js'
+De oefening die dan zal worden uitgevoerd wordt bepaald door de 'main' module
+die is ingesteld in het package.json bestand.
+Om een andere oefening te laten starten moet je dat dus daar even aanpassen
+Op deze manier kan je wel debuggen (en breakpoint in je code zetten)
+
+ofwel gewoon rechtstreeks door node laten uitvoeren zonder debugging mogelijkheden
+* via de terminal (of command prompt in de juiste map ingesteld) in te geven:
+node oef1.js
+node oef2.js
+node oef2b.js
