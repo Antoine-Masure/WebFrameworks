@@ -16,3 +16,5 @@ ofwel gewoon rechtstreeks door node laten uitvoeren zonder debugging mogelijkhed
 node oef1.js
 node oef2.js
 node oef2b.js
+
+Maak een aanpassing in een van de bestanden.
